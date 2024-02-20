@@ -1,3 +1,7 @@
+<img src='https://res.cloudinary.com/dnfsn5rkw/image/upload/v1708454497/avatars/Screenshot_2024-02-21_001100_qypf5a.png'></img>
+<img src='https://res.cloudinary.com/dnfsn5rkw/image/upload/v1708454497/avatars/Screenshot_2024-02-21_001114_onoql6.png'></img>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
